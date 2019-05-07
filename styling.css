@@ -1,0 +1,162 @@
+#play_button{
+	
+	align-content: center;
+	height:120px;
+	width:300px;
+	color:white;
+	font-size:35px;
+	background-color:black;
+	border: 10px solid black;
+	display:block;
+	margin:50px auto;
+	border-radius:35px;
+	}
+#play_button:hover{
+	cursor:pointer;
+}
+#random_card1{
+    height:200px;
+    width:200px;
+    border: 10px ridge gray;
+    border-radius: 40px;
+}
+
+#random_card2{
+    height:200px;
+    width:200px;
+    border: 10px ridge gray;   
+    border-radius: 40px;
+}
+
+#hit_card{
+    height:200px;
+    width:200px;
+    border: 10px ridge gray;   
+    border-radius: 40px;   
+}
+
+#demo_for_bet_amount_and_wallet_amount,#player_demo,#dealer_demo,#bottom{
+	font-size: 25px;
+	color: azure;
+	font-family: fantasy;
+}
+
+#hit{
+	     border-radius: 50%;
+         display: flex;
+         flex: 0 0 150px;
+         height: 60px;
+         justify-content: center;
+         overflow: hidden;
+         position: absolute;
+         width: 60px;
+         top:420px;
+         right:259px;
+}
+#stand{
+	
+			  border-radius: 50%;
+              display: flex;
+              flex: 0 0 150px;
+              height: 60px;
+              justify-content: center;
+              overflow: hidden;
+              position: absolute;
+              width: 60px;
+              top:360px;
+              right:150px;
+}
+
+#double{
+		
+		      border-radius: 50%;
+              display: flex;
+              flex: 0 0 150px;
+              height: 60px;
+              justify-content: center;
+              overflow: hidden;
+              position: absolute;
+              width: 60px;
+              top:460px;
+              right:37px;
+}
+
+#deal{
+		
+		      border-radius: 50%;
+              display: flex;
+              flex: 0 0 150px;
+              height: 60px;
+              justify-content: center;
+              overflow: hidden;
+              position: absolute;
+              width: 60px;
+              top:280px;
+              right:150px;
+}
+
+#chip_100{
+	 			  border-radius: 50%;
+                  display: flex;
+                  flex: 0 0 150px;
+                  height: 60px;
+                  justify-content: center;
+                  overflow: hidden;
+                  position: absolute;
+                  width: 60px;
+                  top:810px;
+                  right:150px;
+}
+
+#chip_2500{
+				  border-radius: 50%;
+                  display: flex;
+                  flex: 0 0 150px;
+                  height: 60px;
+                  justify-content: center;
+                  overflow: hidden;
+                  position: absolute;
+                  width: 60px;
+                  top:720px;
+                  right:259px;
+}
+
+#chip_10K{
+	
+				  border-radius: 50%;
+                  display: flex;
+                  flex: 0 0 150px;
+                  height: 60px;
+                  justify-content: center;
+                  overflow: hidden;
+                  position: absolute;
+                  width: 60px;
+                  top:720px;
+                  right:37px;
+
+}
+
+#chip_500{
+	
+				  border-radius: 50%;
+                  display: flex;
+                  flex: 0 0 150px;
+                  height: 60px;
+                  justify-content: center;
+                  overflow: hidden;
+                  position: absolute;
+                  width: 60px;
+                  top:630px;
+                  right:150px;
+}
+
+#just_leave{
+				position: absolute;
+				border-radius: 25px;
+				top: 250px;
+				left:550px;
+}
+
+#just_leave:hover{
+	cursor: pointer;
+}
